@@ -362,6 +362,7 @@ body{
     grid-template-columns: repeat(2, 1fr); /* 2 cards */
   }
   .product-container {
+    height: 50vh;
     width: 25vw;
   }
   .product-name {
@@ -375,7 +376,7 @@ body{
     grid-template-columns: repeat(1, 1fr); /* 1 card */
   }
   .product-container {
-    width: 40vw;
+    width: 60vw;
   }
   .product-name {
     font-size: 0.5rem;
