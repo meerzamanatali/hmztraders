@@ -274,18 +274,12 @@ body{
   height: 1.5rem;
 }
 .feature-card:nth-child(2) {
-  background-color: #f9a1a1;
-}
-.feature-card:nth-child(3) {
   background-color: #ffdaaa;
 }
-.feature-card:nth-child(4) {
-  background-color: #95a7f7;
-}
-.feature-card:nth-child(5) {
+.feature-card:nth-child(3) {
   background-color: #fbbbfb;
 }
-.feature-card:nth-child(6) {
+.feature-card:nth-child(4) {
   background-color: #b8fec9;
 }
 
